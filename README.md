@@ -6,7 +6,7 @@ Implementation and data of our NAACL 2021 paper MultiOpEe:A Corpus of Multi-Pers
 
 The data was extracted from ThePerspective.com. We would like to thank Daniel Ravner, the CEO of www.theperpspective.com, for kindly granting access to data from the site for academic research. 
 
-Our MultiOpEd corpus is in the data/ directory. We will later provide the exact train/dev/test splits used in the experiments of our paper.
+Our MultiOpEd corpus is in the data/ directory. We will later provide the exact train/dev/test splits and preprocessing used in the experiments of our paper.
 
 <h2>Reproducing the results</h2>
 
