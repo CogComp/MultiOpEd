@@ -1,12 +1,11 @@
 <h1>MULTIOPED:A Corpus of Multi-Perspective News Editorials</h1>
 
-Implementation and data of our NAACL 2021 paper MultiOpEe:A Corpus of Multi-Perspective News Editorials.
+This repositary contains the code and data of ["MultiOpEe:A Corpus of Multi-Perspective News Editorials."] (https://cogcomp.seas.upenn.edu/papers/LCUR21.pdf) in NAACL'21.
+
 
 <h2>Dataset</h2>
 
-The data was extracted from ThePerspective.com. We would like to thank Daniel Ravner, the CEO of www.theperpspective.com, for kindly granting access to data from the site for academic research. 
 
-Our MultiOpEd corpus is in the data/ directory. We will later provide the exact train/dev/test splits and preprocessing used in the experiments of our paper.
 
 <h2>Reproducing the results</h2>
 
@@ -20,3 +19,13 @@ Instructions of usage to be added soon
 
 Instructions of usage to be added soon
 
+
+<h2>Citation</h2>
+```
+@inproceedings{LCUR21,
+    author = {Siyi Liu and Sihao Chen and Xander Uyttendaele and Dan Roth},
+    title = {{MultiOpEd: A Corpus of Multi-Perspective News Editorials}},
+    booktitle = {Proc. of the Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL)},
+    year = {2021}
+}
+```
