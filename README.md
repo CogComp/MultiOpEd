@@ -7,13 +7,13 @@ This repositary contains the code and data of ["MultiOpEe:A Corpus of Multi-Pers
 
 Our dataset follows the below structure
 
-<img src="https://github.com/CogComp/MultiOpEd/blob/main/dataset%20structure.png" width=80% height=80%>
+<img src="https://github.com/CogComp/MultiOpEd/blob/main/dataset%20structure.png" width=60% height=60%>
 
 ### Dataset statistics
 
 The below two graphs show the statistics of our dataset and distribution of topics that our dataset covers.
 
-<img src="https://github.com/CogComp/MultiOpEd/blob/main/dataset%20statistics.png" width=20% height=20%> <img src="https://github.com/CogComp/MultiOpEd/blob/main/topic%20distributions.png" width=60% height=60%>
+<img src="https://github.com/CogComp/MultiOpEd/blob/main/dataset%20statistics.png" width=40% height=40%> <img src="https://github.com/CogComp/MultiOpEd/blob/main/topic%20distributions.png" width=40% height=40%>
 
 <h2>Reproducing the results</h2>
 
