@@ -11,7 +11,10 @@ Our dataset follows the below structure
 
 ### Dataset statistics
 
+<img src="https://github.com/CogComp/MultiOpEd/blob/main/dataset%20statistics.png" width=80% height=80%>
 
+### Topic distributions
+<img src="https://github.com/CogComp/MultiOpEd/blob/main/topic%20distributions.png" width=80% height=80%>
 
 <h2>Reproducing the results</h2>
 
