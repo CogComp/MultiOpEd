@@ -1,4 +1,4 @@
-#MULTIOPED:A Corpus of Multi-Perspective News Editorials
+# MULTIOPED:A Corpus of Multi-Perspective News Editorials
 
 This repositary contains the code and data of ["MultiOpEe:A Corpus of Multi-Perspective News Editorials."] (https://cogcomp.seas.upenn.edu/papers/LCUR21.pdf) in NAACL'21.
 
@@ -20,12 +20,13 @@ Instructions of usage to be added soon
 Instructions of usage to be added soon
 
 
+## Citation
 
 ```
-@inproceedings{CZSR21,
-    author = {Sihao Chen and Fan Zhang and Kazoo Sone and Dan Roth},
-    title = {{Improving Faithfulness in Abstractive Summarization with Contrast Candidate Generation and Selection}},
-    booktitle = {NAACL},
+@inproceedings{LCUR21,
+    author = {Siyi Liu and Sihao Chen and Xander Uyttendaele and Dan Roth},
+    title = {{MultiOpEd: A Corpus of Multi-Perspective News Editorials}},
+    booktitle = {Proc. of the Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL)},
     year = {2021}
 }
 ```
