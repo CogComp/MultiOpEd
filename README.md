@@ -4,7 +4,7 @@ This repositary contains the code and data of ["MultiOpEe:A Corpus of Multi-Pers
 
 
 ## Dataset
-![alt text](https://github.com/CogComp/MultiOpEd/blob/main/dataset%20structure.png?raw=true)
+![alt text](https://github.com/CogComp/MultiOpEd/blob/main/dataset%20structure.png?raw=true | width=100)
 
 
 <h2>Reproducing the results</h2>
