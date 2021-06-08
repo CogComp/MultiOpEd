@@ -11,10 +11,9 @@ Our dataset follows the below structure
 
 ### Dataset statistics
 
-<img src="https://github.com/CogComp/MultiOpEd/blob/main/dataset%20statistics.png" width=80% height=80%>
+The below two graphs show the statistics of our dataset and distribution of topics that our dataset covers.
 
-### Topic distributions
-<img src="https://github.com/CogComp/MultiOpEd/blob/main/topic%20distributions.png" width=80% height=80%>
+<img src="https://github.com/CogComp/MultiOpEd/blob/main/dataset%20statistics.png" width=20% height=20%> <img src="https://github.com/CogComp/MultiOpEd/blob/main/topic%20distributions.png" width=60% height=60%>
 
 <h2>Reproducing the results</h2>
 
