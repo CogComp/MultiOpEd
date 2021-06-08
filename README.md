@@ -5,7 +5,7 @@ This repositary contains the code and data of ["MultiOpEe:A Corpus of Multi-Pers
 
 ## Dataset
 
-<img src="https://github.com/CogComp/MultiOpEd/blob/main/dataset%20structure.png" width="200" height="280">
+<img src="https://github.com/CogComp/MultiOpEd/blob/main/dataset%20structure.png" width=80% height=80%>
 
 
 <h2>Reproducing the results</h2>
