@@ -3,8 +3,8 @@
 This repositary contains the code and data of ["MultiOpEe:A Corpus of Multi-Perspective News Editorials."](https://cogcomp.seas.upenn.edu/papers/LCUR21.pdf) in NAACL'21.
 
 
-<h2>Dataset</h2>
-
+## Dataset
+![alt text](https://github.com/CogComp/MultiOpEd/blob/main/dataset%20structure.png?raw=true)
 
 
 <h2>Reproducing the results</h2>
