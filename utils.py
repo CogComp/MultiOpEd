@@ -48,9 +48,9 @@ def load_csv(path, tok_type = "bart"):
     target = target[1:]
     query = query[1:]
 
-    print(len(source))
-    print(len(target))
-    print(len(query))
+    #print(len(source))
+    #print(len(target))
+    #print(len(query))
 
     for i in range(len(source)):
         source[i] = source[i].replace('\n','')
