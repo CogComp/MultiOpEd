@@ -17,15 +17,18 @@ The below two graphs show the statistics of our dataset and distribution of topi
 
 <h2>Reproducing the results</h2>
 
-Instructions of usage to be added soon
+To reproduce the result, download the stance and relevance classifier from this [google drive](https://drive.google.com/drive/folders/1tHmPTa6Ji0r8--j2ZIMjEMR3gg_JlSR8?usp=sharing), modify their path in eval.sh, and simply run sh eval.sh
 
-<h2>Training</h2>
+This should reproduce exactly the same result as we show in the paper.
 
-Instructions of usage to be added soon
+## Trained models
 
-<h2>Eval</h2>
+Our best trained model is also available in this [google drive](https://drive.google.com/drive/folders/1tHmPTa6Ji0r8--j2ZIMjEMR3gg_JlSR8?usp=sharing). It is a multi-task BART-based model that uses both relevance and stance classification tasks as auxiliary signals.
 
-Instructions of usage to be added soon
+
+<h2>Train</h2>
+
+Refer to train.py and train_both_auxiliary.py for training from scratch. More instructions of usage will be added soon.
 
 
 ## Citation
