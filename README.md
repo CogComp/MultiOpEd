@@ -15,6 +15,14 @@ The below two graphs show the statistics of our dataset and distribution of topi
 
 <img src="https://github.com/CogComp/MultiOpEd/blob/main/dataset%20statistics.png" width=40% height=40%> <img src="https://github.com/CogComp/MultiOpEd/blob/main/topic%20distributions.png" width=40% height=40%>
 
+<h2>Environments</h2>
+
+```
+transformers==4.5.0
+torch==1.8.1
+```
+
+
 <h2>Reproducing the results</h2>
 
 To reproduce the result, download the stance and relevance classifier from this [google drive](https://drive.google.com/drive/folders/1tHmPTa6Ji0r8--j2ZIMjEMR3gg_JlSR8?usp=sharing), modify their path in eval.sh, and simply run sh eval.sh
